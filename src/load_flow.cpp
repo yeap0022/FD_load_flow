@@ -2,7 +2,6 @@
 // Name        : load_flow2.cpp
 // Author      : Yeap Yew Ming
 // Version     : ver2
-// Copyright   : Your copyright notice
 // Description : Fast Decouple Load Flow Analysis
 //============================================================================
 
